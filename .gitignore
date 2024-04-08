@@ -43,4 +43,5 @@ data/drafts
 /public/rss.xml
 
 *.draft.md
+*.gitkeep
 
