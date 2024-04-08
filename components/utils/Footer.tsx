@@ -23,12 +23,12 @@ export const Footer = () => {
           <Link href="https://github.com/PrinOrange/nextjs-lexical-blog" title="Sponsor me for my works.">
             {"Source Code"}
           </Link>
-          <Link href="/sponsor" title="Sponsor me for my works.">
+          {/* <Link href="/sponsor" title="Sponsor me for my works.">
             {"Sponsor"}
-          </Link>
-          <Link href="/friends" title="My friend links.">
+          </Link> */}
+          {/* <Link href="/friends" title="My friend links.">
             {"Friends"}
-          </Link>
+          </Link> */}
           {Config.RSSFeed?.enabled && (
             <DialogTrigger asChild>
               <button title="Subscribe the RSS Feed.">{"Feed"}</button>

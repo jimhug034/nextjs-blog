@@ -26,14 +26,11 @@ export default function AboutPage() {
           </div>
           <div className="my-auto md:w-1/3">
             <div className="mt-5 mb-3 text-3xl font-bold">Hi, there👋</div>
-            I am a student / entrepreneur / engineer (Your profession) majoring in (Your Research Field) born in XXXX
-            (Your birth year)
-            <br />
-            <br />
-            My main research interests includes XXXX
-            <br />
-            <br />
-            Additionally, I am also interested in XXXX.
+           一枚前端程序员
+           <br />
+           <br />
+           <br />
+          
           </div>
         </div>
         <Separator />
@@ -49,8 +46,7 @@ export default function AboutPage() {
               </Link>
             </li>
           )}
-          <li className="my-2">🖥️ Programming stack: TypeScript, JavaScript, C++, C, Rust, Go and so on.</li>
-          <li className="my-2">🤝 I am looking for friends who are fund of XXXX</li>
+          <li className="my-2">🖥️ Programming stack: TypeScript, JavaScript.</li>
           {Config.SocialLinks.twitter && (
             <li className="my-2">
               {"📫 How to reach me on Twitter: "}
@@ -59,16 +55,9 @@ export default function AboutPage() {
               </Link>
             </li>
           )}
-          <li className="my-2">Language : 汉语 / English / 한국어 / 日本語 </li>
-          <li className="my-2">Gender Identity : Male / Female / MTF / FTM / And Others </li>
-          <li className="my-2">From : Your Country, State / Province</li>
+         
         </ul>
 
-        <div className="mx-auto my-10 md:w-2/3 font-bold">
-          {
-            "** In addition to the above content, you can also add other customized components, content, etc. to this page. **"
-          }
-        </div>
       </ContentContainer>
       <Footer />
     </Page>
