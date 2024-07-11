@@ -2,7 +2,7 @@
 title: "usevirtuallist虚拟滚动列表实现原理"
 subtitle: "基于Vue useVirtualList 分析虚拟滚动列表的实现与原理"
 summary: ""
-coverURL: ""
+coverURL: "https://jimhug-blog.oss-cn-beijing.aliyuncs.com/nasa_space_shuttle_columbia.jpg"
 time: "2024-07-11"
 tags: ["javascript","vue"]
 noPrompt: false

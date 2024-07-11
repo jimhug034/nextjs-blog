@@ -33,10 +33,10 @@ export const Config: TConfig = {
   // Giscus Configure. Please refer to the https://giscus.app for entire instruction
   Giscus: {
     enabled: true,
-    repo: `jimhug034/blog`,
-    repoId: "R_kgDOLaH4bA",
+    repo: `jimhug034/nextjs-blog`,
+    repoId: "R_kgDOLq9cIw",
     category: "Announcements",
-    categoryId: "DIC_kwDOLaH4bM4CeiIS",
+    categoryId: "DIC_kwDOLq9cI84CeiG9",
   },
 
   // Enable the RSS Feed? If not, the feed file will not be generated and the feed entrance will be closed.
@@ -47,10 +47,10 @@ export const Config: TConfig = {
   // The supported sponsor ways are wechat-pay, alipay and paypal.
   Sponsor: {
     // Your WechatPay QRCode content.
-    // WechatPayQRCodeContent: "wxp://xxxxxxxxxxxxxxxxx",
-    // // Your Alipay link.
-    // AlipayLink: "https://qr.alipay.com/xxxx",
-    // // Your Paypal user Id.
+    WechatPayQRCodeContent: "wxp://f2f02WF-rt0BGFIBQdwam-1F-UZe5Gw7ZdxY_F8ha8ShTfn67xnz4Bdb5yaoa9YuTqAP",
+    // Your Alipay link.
+    AlipayLink: "https://qr.alipay.com/fkx11614iqfyog9c24ibvd0",
+    // Your Paypal user Id.
     // PaypalId: "xxxx",
     // // If it's true, it will show the github sponsor link button.
     // Github: true,
