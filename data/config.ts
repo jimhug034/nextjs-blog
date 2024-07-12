@@ -5,7 +5,7 @@ export const Config: TConfig = {
   AvatarURL: "/images/avatar.webp",
   // Your favorite motto, or a brief self-introduction, for homepage display
   Sentence:
-    "做好每一件基础事情",
+    "基础不牢，地动山摇",
   // Your nickname, or pen name here.
   Nickname: "废材壶",
 
